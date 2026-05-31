@@ -1,4 +1,4 @@
-tweet_id,party,argument,claim,evidence,opinion,fact_claiming,reason,external,toxic
+tweet_id,party,argument,claim,evidence,unverifiable_claim,verifiable_claim,reason,external_evidence,toxic_language
 685018876447485952,Alliance 90/The Greens,1,1,1,1,1,0,1,0
 686449802905825280,Alliance 90/The Greens,1,1,1,1,0,0,1,0
 686450493049159680,Alliance 90/The Greens,1,1,1,1,0,0,1,0
