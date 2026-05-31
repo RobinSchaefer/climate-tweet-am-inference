@@ -1,4 +1,4 @@
-tweet_id,argument,claim,evidence,opinion,fact_claiming,external,reason,toxic
+tweet_id,argument,claim,evidence,unverifiable_claim,verifiable_claim,external_evidence,reason,toxic_language
 1180157957088174080,0,0,0,0,0,0,0,0
 1180157664283779074,0,1,0,1,0,0,0,0
 1180157560990633985,1,1,0,1,0,0,0,0
